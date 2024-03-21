@@ -1,2 +1,2 @@
-def main()
+def main():
     print('"Programming is like building a multilingual puzzle')
