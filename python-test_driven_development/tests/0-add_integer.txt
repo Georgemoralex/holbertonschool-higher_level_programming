@@ -1,0 +1,4 @@
+import unittest
+from integers import 0-add_integer
+
+class test0-add_integer(unittest.TestCase)
